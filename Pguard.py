@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/lib/python2.7
 # Kalau di kira phising gak usah pake
 # SumpaH demi ALLAH saya tidak taru Logger atau phising dan semacmnya
 # saya hanya tebar kebaikan  â‚¬â‚¬â‚¬â‚¬
